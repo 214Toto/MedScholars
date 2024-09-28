@@ -477,7 +477,8 @@ footer {
   }
 
   header {
-    height: 300vh;
+    height: 150vh;
+    margin-bottom: -15rem;
   }
 
   .categories__container {
